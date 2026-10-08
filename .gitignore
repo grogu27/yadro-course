@@ -1,1 +1,4 @@
-open-tests/
+#open-tests/
+prog
+res.txt
+outfile
